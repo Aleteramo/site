@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Aleteramo/site.git/static/css/main.884fc08b.css",
-    "main.js": "/Aleteramo/site.git/static/js/main.8ab70d7c.js",
-    "static/js/453.adc34edb.chunk.js": "/Aleteramo/site.git/static/js/453.adc34edb.chunk.js",
-    "static/media/immagine2.jpg": "/Aleteramo/site.git/static/media/immagine2.ca035419f59e3ce2a040.jpg",
-    "static/media/immagine3.jpg": "/Aleteramo/site.git/static/media/immagine3.745e45ac6a5ade29a67b.jpg",
-    "static/media/immagine5.jpg": "/Aleteramo/site.git/static/media/immagine5.26bb01675d6f4bd55b3f.jpg",
-    "static/media/immagine1.jpg": "/Aleteramo/site.git/static/media/immagine1.8ba495fb03c5683ea82f.jpg",
-    "static/media/logounite.jpeg": "/Aleteramo/site.git/static/media/logounite.ae5246c95d9a7587335e.jpeg",
-    "static/media/immagine4.jpg": "/Aleteramo/site.git/static/media/immagine4.cc040d38a37e2697483e.jpg",
-    "index.html": "/Aleteramo/site.git/index.html",
-    "main.884fc08b.css.map": "/Aleteramo/site.git/static/css/main.884fc08b.css.map",
-    "main.8ab70d7c.js.map": "/Aleteramo/site.git/static/js/main.8ab70d7c.js.map",
-    "453.adc34edb.chunk.js.map": "/Aleteramo/site.git/static/js/453.adc34edb.chunk.js.map"
+    "main.css": "/Aleteramo/site/static/css/main.884fc08b.css",
+    "main.js": "/Aleteramo/site/static/js/main.6b79d468.js",
+    "static/js/453.adc34edb.chunk.js": "/Aleteramo/site/static/js/453.adc34edb.chunk.js",
+    "static/media/immagine2.jpg": "/Aleteramo/site/static/media/immagine2.ca035419f59e3ce2a040.jpg",
+    "static/media/immagine3.jpg": "/Aleteramo/site/static/media/immagine3.745e45ac6a5ade29a67b.jpg",
+    "static/media/immagine5.jpg": "/Aleteramo/site/static/media/immagine5.26bb01675d6f4bd55b3f.jpg",
+    "static/media/immagine1.jpg": "/Aleteramo/site/static/media/immagine1.8ba495fb03c5683ea82f.jpg",
+    "static/media/logounite.jpeg": "/Aleteramo/site/static/media/logounite.ae5246c95d9a7587335e.jpeg",
+    "static/media/immagine4.jpg": "/Aleteramo/site/static/media/immagine4.cc040d38a37e2697483e.jpg",
+    "index.html": "/Aleteramo/site/index.html",
+    "main.884fc08b.css.map": "/Aleteramo/site/static/css/main.884fc08b.css.map",
+    "main.6b79d468.js.map": "/Aleteramo/site/static/js/main.6b79d468.js.map",
+    "453.adc34edb.chunk.js.map": "/Aleteramo/site/static/js/453.adc34edb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.884fc08b.css",
-    "static/js/main.8ab70d7c.js"
+    "static/js/main.6b79d468.js"
   ]
 }
